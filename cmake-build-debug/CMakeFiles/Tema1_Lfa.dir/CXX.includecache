@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/Tema1 Lfa/AFN.cpp
+AFN.h
+/cygdrive/e/Tema1 Lfa/AFN.h
+AFN.h
+/cygdrive/e/Tema1 Lfa/AFN.h
+cstring
+-
+
+/cygdrive/e/Tema1 Lfa/AFN.h
+fstream
+-
+
+/cygdrive/e/Tema1 Lfa/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+AFN.h
+/cygdrive/e/Tema1 Lfa/AFN.h
+

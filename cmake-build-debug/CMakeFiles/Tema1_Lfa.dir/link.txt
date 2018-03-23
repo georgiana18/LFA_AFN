@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Tema1_Lfa.dir/main.cpp.o CMakeFiles/Tema1_Lfa.dir/AFN.cpp.o  -o Tema1_Lfa.exe -Wl,--out-implib,libTema1_Lfa.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

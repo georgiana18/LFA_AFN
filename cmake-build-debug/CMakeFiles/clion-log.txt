@@ -1,0 +1,4 @@
+C:\Users\Georgiana\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/e/Tema1 Lfa"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/e/Tema1 Lfa/cmake-build-debug
